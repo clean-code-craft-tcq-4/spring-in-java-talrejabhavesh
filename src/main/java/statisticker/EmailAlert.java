@@ -4,7 +4,7 @@ public boolean emailSent=false;
 
 
 @Override
-public void SetEmailSent(boolean emailSent){
+public void setEmailSent(boolean emailSent){
 this.emailSent=emailSent;
 }
 
