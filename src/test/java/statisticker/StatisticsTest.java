@@ -7,6 +7,11 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.ArrayList;
 
+import main.EmailAlert;
+import main.IAlerter;
+import main.LEDAlert;
+import main.StatsChecker;
+
 import org.junit.Test;
 
 public class StatisticsTest 
