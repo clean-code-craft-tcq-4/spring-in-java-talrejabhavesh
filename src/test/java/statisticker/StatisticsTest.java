@@ -38,7 +38,7 @@ public class StatisticsTest
         //Design the asserts here and implement accordingly.
         assertFalse(s.average==Float.NaN);
     }
-    /*
+    
     @Test
     public void reportsAlertsIfMaxIsMoreThanThreshold()
     {
@@ -54,5 +54,5 @@ public class StatisticsTest
         
         assertTrue(emailAlerter.emailSent);
         assertTrue(ledAlerter.ledGlows);
-    }*/
+    }
 }
