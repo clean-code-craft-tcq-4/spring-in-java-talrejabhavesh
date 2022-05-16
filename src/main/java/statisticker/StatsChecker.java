@@ -1,3 +1,6 @@
+import java.util.List;
+
+
 public class StatsChecker{
 
 private float maxThershold;
