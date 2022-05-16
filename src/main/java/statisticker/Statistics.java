@@ -12,7 +12,7 @@ public class Statistics
         public float max;
     }
     
-    public static Stats getStatistics(List<___> numbers) {
+    public static Stats getStatistics(List<Float> numbers) {
         Stats stats= new Stats();
         stats.average=getAverage(numbers);
         stats.min=getMin(numbers);
