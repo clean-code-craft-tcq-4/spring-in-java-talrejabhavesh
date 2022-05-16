@@ -7,10 +7,6 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.ArrayList;
 
-import main.java.statisticker.EmailAlert;
-import main.java.statisticker.IAlerter;
-import main.java.statisticker.LEDAlert;
-import main.java.statisticker.StatsChecker;
 
 import org.junit.Test;
 
